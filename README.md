@@ -1,1 +1,1 @@
-# mini-spam-checking
+# mini-spam-checking and word count.
